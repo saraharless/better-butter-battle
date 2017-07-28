@@ -1,0 +1,61 @@
+body {
+font-family: 'Fira Mono', monospace;
+font-size: 1em;
+line-height: 1.5;
+color: white;
+}
+
+h1
+{
+   text-transform: uppercase;
+   font-size: 3em;
+   text-align: center;
+   letter-spacing: 3px;
+   color: #7D62A7;
+   padding: 0;
+   margin: 20px auto;
+}
+
+h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2em;
+  text-transform: uppercase;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 960px;
+  /*background-color:*/
+}
+
+.up {
+  width: 50%;
+  background: linear-gradient(to bottom, rgba(0, 179, 209, .2), rgba(0, 179, 209, .7));
+  float: left;
+}
+
+.down {
+  width: 50%;
+  background: linear-gradient(to bottom, rgba(255, 170, 104, .2), rgba(255, 170, 104, .7));
+  float: left;
+}
+
+.container img {
+  padding: 10%;
+  padding-bottom: 0;
+  width: 80%;
+}
+
+@media screen and (min-width: 960px) {
+  .container {
+    max-width: 960px;
+}
+
+@media screen and (min-width: 704px) {
+  .container {
+    max-width: 704px;
+  }
+
+}
