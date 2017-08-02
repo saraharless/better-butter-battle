@@ -10,8 +10,6 @@ Inspired by one of my favorite Dr. Seuss books, _The Better Butter Battle_, I ca
 
 In _The Better Butter Battle_ there are two types of people. Yooks, who wear blue and eat their bread butter side up, and Zooks, who wear orange and eat their bread butter side down. I created two boxes, one for each type and used Adobe Illustrator to create six different graphics.
 
-***screenshot of each view***
-
 In mobile view, two butter knives with a smear of butter are displayed, one facing up and one down. The second size reveals two butter dishes, one right side up and the other upside down, and when you get to the largest media query, two pieces of bread are displayed; one with butter on the top and the other dripping butter from the bottom.
 
 This project was a lot of fun to work on, and I hope that it can serve as a visual aid to help anyone new to CSS understand media queries.
